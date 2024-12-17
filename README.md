@@ -6,7 +6,7 @@
 
 
 # 💬 Наш ТГ бот
-[@SCANDOCK_BOT](https://t.me/SCANDOCK_BOT)
+[@SCANDOCK_BOT](https://t.me/Test1112231_bot)
 
 
 
