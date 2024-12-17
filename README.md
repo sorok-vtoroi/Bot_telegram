@@ -2,11 +2,11 @@
 это проект, который поможет вам перевести ваши сканы документов на английском языке в текст, и выдать вам текстом всё что написано в этом документе, а также может стать отличной основой для создание собственной бухгалтерской программы
 
 # 📸 Главный экран сайта нашего проекта
-https://sorok-vtoroi.github.io/ScanToText_Bot/
+[наш сайт](https://sorok-vtoroi.github.io/ScanToText_Bot/)
 
 
 # 💬 Наш ТГ бот
-(https://t.me/SCANDOCK_BOT)[@SCANDOCK_BOT]
+[@SCANDOCK_BOT](https://t.me/SCANDOCK_BOT)
 
 
 
@@ -15,12 +15,12 @@ https://sorok-vtoroi.github.io/ScanToText_Bot/
 
 # 📂 Структура проекта
 
-(processor.py)[https://github.com/sorok-vtoroi/Bot_telegram/blob/main/bot.py] - основной алгоритм обработки изображения для извлечения текста
+[processor.py](https://github.com/sorok-vtoroi/Bot_telegram/blob/main/bot.py) - основной алгоритм обработки изображения для извлечения текста
 
-(https://github.com/sorok-vtoroi/Bot_telegram/blob/main/bot.py)[bot.py] - бот нашего проекта
+[bot.py](https://github.com/sorok-vtoroi/Bot_telegram/blob/main/bot.py) - бот нашего проекта
 
-(https://github.com/sorok-vtoroi/Bot_telegram/blob/main/processed_image.jpg)[processed_image.jpg] - пример визуализации распознования текта обученной моделью 
+[processed_image.jpg](https://github.com/sorok-vtoroi/Bot_telegram/blob/main/processed_image.jpg) - пример визуализации распознования текта обученной моделью 
 
-[https://github.com/sorok-vtoroi/Bot_telegram/blob/main/test_image.jpg](test_image.jpg) - начальный пример
+[test_image.jpg](https://github.com/sorok-vtoroi/Bot_telegram/blob/main/test_image.jpg) - начальный пример
 
-[https://github.com/sorok-vtoroi/Bot_telegram/blob/main/train_model.py](train_model.py) - алгоритм для пред обучения модели
+[train_model.py](https://github.com/sorok-vtoroi/Bot_telegram/blob/main/train_model.py) - алгоритм для пред обучения модели
