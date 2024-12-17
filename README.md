@@ -6,3 +6,5 @@
 
 
 # 💬 Наш ТГ бот
+@SCANDOCK_BOT
+https://t.me/SCANDOCK_BOT
