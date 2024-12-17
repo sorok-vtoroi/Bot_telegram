@@ -6,8 +6,8 @@
 
 
 # 💬 Наш ТГ бот
-@SCANDOCK_BOT
-https://t.me/SCANDOCK_BOT
+[https://t.me/SCANDOCK_BOT](@SCANDOCK_BOT)
+
 
 
 
@@ -15,12 +15,12 @@ https://t.me/SCANDOCK_BOT
 
 # 📂 Структура проекта
 
-[processor.py](https://github.com/sorok-vtoroi/Bot_telegram/blob/main/bot.py) - предобученная машинного обучения
+[processor.py](https://github.com/sorok-vtoroi/Bot_telegram/blob/main/bot.py) - основной алгоритм обработки изображения для извлечения текста
 
-bot.py - бот нашего проекта
+[https://github.com/sorok-vtoroi/Bot_telegram/blob/main/bot.py](bot.py) - бот нашего проекта
 
-processed_image.jpg - пример визуализации распознования текта обученной моделью 
+[https://github.com/sorok-vtoroi/Bot_telegram/blob/main/processed_image.jpg](processed_image.jpg) - пример визуализации распознования текта обученной моделью 
 
-test_image.jpg - начальный пример
+[https://github.com/sorok-vtoroi/Bot_telegram/blob/main/test_image.jpg](test_image.jpg) - начальный пример
 
-train_model.py - 
+[https://github.com/sorok-vtoroi/Bot_telegram/blob/main/train_model.py](train_model.py) - алгоритм для пред обучения модели
